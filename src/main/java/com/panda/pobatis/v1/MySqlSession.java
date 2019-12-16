@@ -1,4 +1,4 @@
-package com.panda.pobatis;
+package com.panda.pobatis.v1;
 
 /**
  * 该类提供给应用层使用

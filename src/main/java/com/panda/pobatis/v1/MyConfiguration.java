@@ -1,4 +1,4 @@
-package com.panda.pobatis;
+package com.panda.pobatis.v1;
 
 import java.lang.reflect.Proxy;
 import java.util.ResourceBundle;
@@ -17,7 +17,7 @@ public class MyConfiguration {
      * 防止重复解析sql映射文件，写成静态方法块
      */
     static {
-        sqlMappings = ResourceBundle.getBundle("posql");
+        sqlMappings = ResourceBundle.getBundle("v1_posql");
     }
 
     /**

@@ -1,4 +1,4 @@
-package com.panda.pobatis;
+package com.panda.pobatis.v1;
 
 public interface BlogMapper {
     /**

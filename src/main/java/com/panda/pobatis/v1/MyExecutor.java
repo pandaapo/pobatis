@@ -1,5 +1,7 @@
 package com.panda.pobatis.v1;
 
+import com.panda.pobatis.v1.mapper.Blog;
+
 import java.sql.*;
 
 /**

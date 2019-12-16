@@ -1,4 +1,4 @@
-package com.panda.pobatis.v1;
+package com.panda.pobatis.v1.mapper;
 
 import java.io.Serializable;
 

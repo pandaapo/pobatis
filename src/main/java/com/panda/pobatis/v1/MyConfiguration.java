@@ -17,7 +17,7 @@ public class MyConfiguration {
      * 防止重复解析sql映射文件，写成静态方法块
      */
     static {
-        sqlMappings = ResourceBundle.getBundle("v1_posql");
+        sqlMappings = ResourceBundle.getBundle("sql(v1)");
     }
 
     /**
